@@ -44,13 +44,13 @@ $app->get('/mongolite', function () use ($app) {
 
 ## Installation ##
 
-Install MongoLite Service Provider using [Composer](getcomposer.org) PHP's package manager
+Install MongoLite Service Provider using [Composer](https://getcomposer.org) PHP's package manager
 
 Add the following to the composer.json file..
 ```
 {
     "require": {
-        "agentejo/mongo-lite": "dev-master"
+        "nbpalomino/mongo-lite-service-provider": "dev-master"
     }
 }
 ```
